@@ -101,7 +101,7 @@ Determine the top 5 shipping carriers with the lowest average shipping costs per
 
 Excel Analysis:-
 ----------------
-![Excel](https://github.com/Harpreetk01/sample/assets/122088124/2a9ae76d-b8b3-45d8-918c-f4a3500159f3)
+![Excel]
 
 Excel Analysis Summary for Supply Chain Capstone Project
 
@@ -129,7 +129,7 @@ This Excel dashboard provides a concise overview of the supply chain dataset, ma
 Power BI:-
 -----------
 
-![Power BI - Dashboard](https://github.com/Harpreetk01/sample/assets/122088124/80e7f912-4c2d-4e82-b00b-d41a832b1e7a)
+![Power BI - Dashboard]
 
 In Powe Bi, build charts, graphs, and KPIs to visualize the data and understand it more interactively, along with 
 that, build some slicers to make it more user-friendly to customize the charts and graphs.
@@ -203,4 +203,4 @@ Higher production volumes necessitate longer lead times to ensure adequate time 
 7. According to the graph, the fastest and most efficient shipping option is Carrier B, and the most efficient transportation mode is road in all four transportation modes.
 ## Links
 
-[Power Bi Dashbaord](https://app.powerbi.com/view?r=eyJrIjoiYzgzMTQ1YjItMmIwZC00MTBmLWJiOTUtYzZlNTFmNzYyMzA2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+[Power Bi Dashbaord]
